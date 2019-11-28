@@ -1,3 +1,3 @@
 # Jupyter getting-started notebooks
 
-Curated list of Jupyter notebooks demonstrating capabilities of Euro Data Cube services. These notebooks will be available for Euro Data Cube Customers within their JupyterHub workspace.
+Curated list of Jupyter notebooks demonstrating the capabilities of the Euro Data Cube offering. These notebooks can be directly executed by all Euro Data Cube customers within their own Jupyter Lab environment wihtou further setup.
